@@ -1,4 +1,4 @@
-# download-documents
-Download ID cards and/or selfies from AWS S3 cloud on the Desktop. Supports folder, zip, or both versions.
+# django-s3-docs-downloader
+Django management command to download user documents (ID cards and selfies) from AWS S3 with support for zipping, limits, and date filters.
 
-![AI Assisted](https://img.shields.io/badge/Built_with-ChatGPT-8A2BE2?logo=openai&logoColor=white&style=flat-square)
+![Built with AI](https://img.shields.io/badge/Built%20with-AI-black?style=for-the-badge&logo=githubcopilot)
